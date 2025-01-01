@@ -1,1 +1,1 @@
-# WikipediaQuiz.social
+# LinuxQuiz.social
